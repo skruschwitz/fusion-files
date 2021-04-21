@@ -12,8 +12,11 @@
  
  
 CONTENT_BASE=https://api.adn.arcpublishing.com
+
 ARC_ACCESS_TOKEN=
+
 DB_NAME=localfusion
+
 FUSION_RELEASE=latest
 
 
